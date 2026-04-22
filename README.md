@@ -1,0 +1,2 @@
+# Motion-Sensor-Based-Intrusion-Detection-And-Surveillance-System-With-Smart-Alerts-
+Designed and developed a motion sensor–based intrusion detection and surveillance system capable of identifying unauthorized movement in real time. Integrated sensors with a microcontroller to trigger smart alerts and enable continuous monitoring, improving security through timely notifications and automated response.
